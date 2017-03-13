@@ -5,5 +5,6 @@ int main()
 {
     PasswordGenerator generator;
     generator.makePassword();
+
 	return 0;
 }
